@@ -1,6 +1,6 @@
 name       : perl-extutils-embed
 version    : '1.14'
-release    : 5
+release    : 6
 source     :
     - http://search.cpan.org/CPAN/authors/id/D/DO/DOUGM/ExtUtils-Embed-1.14.tar.gz : f0e455c51ea1db5c43152d636cd667b6598972e5845500ca4d9344f339c0a5f0
 license    : Artistic-2.0
